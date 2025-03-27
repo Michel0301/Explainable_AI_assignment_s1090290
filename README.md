@@ -2,7 +2,7 @@ This project shows different explainable AI methods (attention-based explanation
 
 Usage:
 
-1. Clone the repository: git clone https://github.com/Michel0301/explainable_AI_s1090290.git
+1. Clone the repository: git clone https://github.com/Michel0301/Explainable_AI_assignment_s1090290.git
 2. Install dependencies: pip install -r requirements.txt
 3. Open the Jupyter Notebook “finalAssignment_wildlife_notebook.ipynb” using Jupyter Notebook or Google Colab.
 4. Download the images.zip file and upload this to the Google Colab (or other IDE) directory environment
