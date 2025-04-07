@@ -11,6 +11,10 @@ There are problems with cloning the Git repository for different IDE's. For the 
 5. If the above instructions are not working, then I made a video of how to run my code: https://youtu.be/oMOpLkJqxlE
 
 
+
+
+
+---------------------------------------------------------------------------------------------------------------------------
 If you still want to use it by cloning this Github repository instead of using Google Colab then here are the instructions:
 
 1. Clone the repository: git clone https://github.com/Michel0301/Explainable_AI_assignment_s1090290.git
