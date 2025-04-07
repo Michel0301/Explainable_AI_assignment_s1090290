@@ -7,7 +7,8 @@ There are problems with cloning the Git repository for different IDE's. For the 
 1. Download the imagesTigers.zip file from my Github repository
 2. Open my Google Colab environment using the following link: https://colab.research.google.com/drive/1im5EiAabqcqXi3z8TVi9tEWPqNq-aVL_?usp=sharing
 3. Upload imagesTigers.zip that you downloaded from this Github repository and upload it to the Google Colab environment by clicking the "files" icon on the left of the Google Colab screen and dragging it there
-4. Run the Google Colab file by clicking the "Runtime" tab on top and click "Run all" 
+4. Run the Google Colab file by clicking the "Runtime" tab on top and click "Run all"
+5. If the above instructions are not working, then I made a video of how to run my code: https://youtu.be/oMOpLkJqxlE
 
 
 If you still want to use it by cloning this Github repository instead of using Google Colab then here are the instructions:
