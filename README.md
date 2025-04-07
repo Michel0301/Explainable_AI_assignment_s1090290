@@ -4,9 +4,13 @@ Note:
 
 There are problems with cloning the Git repository for different IDE's. For the best and easiest experience use the following Google Colab link to run the code:
 
-https://colab.research.google.com/drive/1im5EiAabqcqXi3z8TVi9tEWPqNq-aVL_?usp=sharing
+1. Download the images.zip file from my Github repository
+2. Open my Google Colab environment using the following link: https://colab.research.google.com/drive/1im5EiAabqcqXi3z8TVi9tEWPqNq-aVL_?usp=sharing
+3. Upload images.zip that you downloaded from this Github repository and upload it to the Google Colab environment by clicking the "files" icon on the left of the Google Colab screen and dragging it there
+4. Run the Google Colab file by clicking the "Runtime" tab on top and click "Run all" 
 
-Usage of GitHub:
+
+If you still want to use it by cloning this Github repository instead of using Google Colab then here are the instructions:
 
 1. Clone the repository: git clone https://github.com/Michel0301/Explainable_AI_assignment_s1090290.git
 2. Install dependencies: pip install -r requirements.txt
